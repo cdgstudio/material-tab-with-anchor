@@ -40,37 +40,6 @@ import { SyncTabsWithAnchor } from './sync-tabs-with-anchor.directive';
             felis.
           </p>
 
-          <h2>Header Level 2</h2>
-
-          <ol>
-            <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li>Aliquam tincidunt mauris eu risus.</li>
-          </ol>
-
-          <blockquote>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-              magna. Cras in mi at felis aliquet congue. Ut a est eget ligula
-              molestie gravida. Curabitur massa. Donec eleifend, libero at
-              sagittis mollis, tellus est malesuada tellus, at luctus turpis
-              elit sit amet quam. Vivamus pretium ornare est.
-            </p>
-          </blockquote>
-
-          <h3>Header Level 3</h3>
-
-          <ul>
-            <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li>Aliquam tincidunt mauris eu risus.</li>
-          </ul>
-
-          <pre><code>
-#header h1 a {{ '{' }}
-  display: block;
-  width: 300px;
-  height: 80px;
-  {{ '}' }}
-</code></pre>
         </div>
       </mat-tab>
 
